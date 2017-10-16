@@ -1,6 +1,8 @@
 # -小程序demo
 <br>小程序开发</br>
-<br>开发者工具如何快速导入小程序demo源码教程！</br>
+<br>
+<a href="http://bbs.zhichiwangluo.com/forum.php?mod=viewthread&tid=12358">即速开发的demo源码，如何在微信开发者工具应用</a>
+</br>
 <br>即速应用首发！原创！电商商场Demo</br>
 优质微信小程序推荐 －秀人美女图 图片下载、滑动翻页
 微信小程序 - 新词 GET!
