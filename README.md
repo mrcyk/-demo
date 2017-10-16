@@ -37,7 +37,6 @@ emoji></li>
 <li><a href="http://bbs.zhichiwangluo.com/thread-11085-1-1.html">微信小程序开发-即速应用教程汇总</a> <g-emoji alias="100" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4af.png" ios-version="6.0">💯</g-
 
 emoji></li>
-<li><a href="http://www.jisuapp.cn/match/">微信小程序全国开发者大赛,万元大奖</a> <g-emoji alias="100" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4af.png" ios-version="6.0">💯</g-emoji></li>
 </ul>
 <h2><a href="#官方文档" aria-hidden="true" class="anchor" id="user-content-官方文档"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-
 
